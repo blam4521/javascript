@@ -9,4 +9,4 @@ var sum =4242342342342342342;
 //  789 / 12345
 var results = 789 / 12345;
 console.log(results);
-
+console.log("the results are " + results)
